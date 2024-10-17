@@ -1,0 +1,5 @@
+id,date,amount,category,description
+1,2023-10-01,60.0,Food,Groceries
+2,2023-10-03,100.0,Utilities,Electricity Bill
+3,2023-10-04,75.0,Transport,Bus Ticket
+4,2024-10-17,10.0,Food,Grocery

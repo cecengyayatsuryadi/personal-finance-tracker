@@ -8,7 +8,7 @@
 ## Installation
 1. Clone the repository
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the application: `python personal_finance_tracker/main.py`
+3. Run the application: `python main.py`
 
 ## Usage
 1. Follow the on-screen menu to interact with the application
